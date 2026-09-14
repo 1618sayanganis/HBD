@@ -1,0 +1,9 @@
+{
+  "name": "hbd-maulidiffa-threejs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D Birthday Greeting for @Maulidiffa using Three.js",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
