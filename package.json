@@ -1,8 +1,8 @@
 {
-  "name": "hbd-maulidiffa-threejs",
+  "name": "happy-graduation-threejs",
   "version": "1.0.0",
   "private": true,
-  "description": "3D Birthday Greeting for @Maulidiffa using Three.js",
+  "description": "3D Graduation Greeting for M. Faizin M.Par. using Three.js",
   "scripts": {
     "start": "npx serve ."
   }
